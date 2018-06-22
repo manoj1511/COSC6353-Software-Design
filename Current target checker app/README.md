@@ -23,3 +23,8 @@ Design considerations:
 3. Make it user entry once you have working code.
 4. You will periodically check the rates, consider using a schedular.
 4. For notification, we will assume that there is a system that will be called to notify users. You only display on the screen if target has been reached.
+
+
+
+
+Compile using g++ -std=c++11 *.cpp -lcurl
